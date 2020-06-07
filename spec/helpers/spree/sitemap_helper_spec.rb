@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 RSpec.describe Spree::SitemapHelper do
   let(:interpreter) do
     Class.new do
